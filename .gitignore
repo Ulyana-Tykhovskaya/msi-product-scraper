@@ -1,0 +1,4 @@
+node_modules/
+.playwright/
+output/product.json
+.env

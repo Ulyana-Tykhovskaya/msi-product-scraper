@@ -1,0 +1,16 @@
+{
+  "name": "msi-product-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/scrape.js",
+  "scripts": {
+    "scrape": "node src/scrape.js"
+  },
+  "keywords": [],
+  "author": "Tikhovskaya Ulyana <tikhovskaya1999@gmail.com>",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "playwright": "^1.61.1"
+  }
+}
