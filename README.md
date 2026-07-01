@@ -1,4 +1,3 @@
-# msi-product-scraper
 
 # MSI Product Scraper
 
